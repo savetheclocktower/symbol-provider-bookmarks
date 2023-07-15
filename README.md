@@ -1,6 +1,6 @@
 # symbol-provider-bookmarks package
 
-Represents editor bookmarks as symbols in [symbols-view-plus](https://web.pulsar-edit.dev/packages/symbols-view-plus).
+Represents editor bookmarks as symbols in [symbols-view-redux](https://web.pulsar-edit.dev/packages/symbols-view-redux).
 
 Each distinct bookmark will appear as its own symbol. The symbol’s name will begin with `Bookmark: ` and end with the entire line of text on the first non-empty row touched by the bookmark.
 
