@@ -1,10 +1,9 @@
 {
   "name": "symbol-provider-bookmarks",
   "main": "./lib/main",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Represents editor bookmarks as symbols in symbols-view-plus",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/savetheclocktower/symbol-provider-bookmarks",
   "license": "MIT",
   "engines": {
@@ -27,6 +26,5 @@
       }
     }
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
